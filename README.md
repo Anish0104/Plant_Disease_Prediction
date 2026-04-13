@@ -14,7 +14,7 @@ This project applies supervised machine learning to classify leaf images into he
 - scikit-learn  
 
 ## Dataset
-Leaf image dataset used for plant disease classification.  
+Leaf image dataset used for plant disease classification.
 
 
 ## Approach
